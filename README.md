@@ -88,7 +88,7 @@ The HR attrition analysis project leverages Power BI to analyze employee turnove
 #### Step 2: Data Import and Cleaning
 - Data Import: Import the dataset into Power BI.
 - Data validation: 100%
-#### step 3: Creating of measure and Conditional columns
+#### Step 3: Creating of measure and Conditional columns
 - Age sort
 - Average age of current employees
 - Atrrition rate
@@ -120,7 +120,7 @@ This HR data analysis project focuses on understanding the reasons behind employ
 - Divorced Employees: The visual display shows varied job satisfaction ratings among divorced employees. For instance, 29 divorced female employees rated their job satisfaction as 1, while 33 rated it as 3. Similarly, 36 divorced male employees rated their job satisfaction as 2, while 51 rated it as 3. This demographic may benefit from targeted support and career development programs.
 - Married Employees: Married employees generally show higher job satisfaction ratings. For example, 113 married male employees rated their job satisfaction as 4. This indicates better stability and contentment in their roles.
 - Single Employees: Single employees, particularly females, show a wider range of job satisfaction ratings. For instance, 59 single female employees rated their job satisfaction as 4, while 28 rated it as 2. This suggests the need for engagement initiatives to improve their work experience.
-#### Income and Job Satisfaction
+##### Income and Job Satisfaction
 ###### Correlation between Job Level, Monthly Income, and Job Satisfaction:
 - Higher job levels and monthly incomes are generally associated with higher job satisfaction ratings. For example, employees at Job Level 5 with monthly incomes of $479,004 reported being "Very Satisfied." However, there are exceptions where high-income employees still report dissatisfaction, indicating that factors beyond compensation, such as work environment and career growth, play crucial roles in job satisfaction. For instance, an employee at Job Level 4 with a monthly income of $342,450 reported being "Very Dissatisfied."
 
